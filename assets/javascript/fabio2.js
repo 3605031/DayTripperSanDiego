@@ -36,7 +36,7 @@ function showLogon(name) {
     $('#greeting > span').empty();
     $("#greeting").prepend("<span>Nice to see you, " 
         + user + 
-        " - now you can look at your saved Points of Interest </span>");
+        " - now you can look at your saved Points of Interest </span><br>");
     $('#greeting').show();
     $('#btn-user').show();
     $('#btn-logout').show();
