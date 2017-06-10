@@ -73,7 +73,7 @@ function addName(name) {
             var rec = {
                 name: name,
             }
-            var newRec = usersDir.set(rec);
+            var newRec = usersDir.push(rec).key;
             console.log('newRec = '+newRec);
             showLogon();
         },  function(error) {
@@ -129,7 +129,7 @@ function populateList() {
         var title = $("<div class='div-save'>");
         title.append("<h3>"+numIndex+". "+"<span class='placetitle'>"+key+"</span></h3>");
         //title.append("<span>");
-        var btn = $('<button type="button" class="btn btn-default btn-save">Save</button>');
+        var btn = $('<button type="button" class="btn btn-danger btn-save">Delete</button>');
         if (firebase.auth().currentUser != null) {
         //  console.log('button append');
         title.append(btn);

@@ -24,6 +24,7 @@ body {
     background-image: url(http://wallpapercave.com/wp/DMuTm9x.jpg);
 /*    color: lightgray;
     margin-top: 20px;*/
+    background-size:100% auto;
     background-size: cover;
     border: solid 1px #2F4F4F;
 }
