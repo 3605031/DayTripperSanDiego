@@ -127,7 +127,7 @@ function populateList() {
 
         //Title of place
         var title = $("<div class='div-save'>");
-        title.append("<h3>"+numIndex+". "+"<span class='placetitle'>"+key+"</span></h3>");
+        title.append("<h3><span class='placetitle'>"+key+"</span></h3>");
         //title.append("<span>");
         var btn = $('<button type="button" class="btn btn-danger btn-save">Delete</button>');
         if (firebase.auth().currentUser != null) {
