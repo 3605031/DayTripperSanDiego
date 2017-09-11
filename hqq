@@ -1,0 +1,468 @@
+[33mcommit 3c94d93c35e5e95729306fd696b611c3cad37276[m
+Author: Nate <bhhuynh@ucsd.edu>
+Date:   Thu Jun 8 20:51:13 2017 -0700
+
+    img url
+
+[33mcommit 5be804a712cef2d8573df8097ce13e26a0ff9b5a[m
+Author: Nate <bhhuynh@ucsd.edu>
+Date:   Thu Jun 8 20:34:03 2017 -0700
+
+    getting info from title div
+
+[33mcommit 76b79acd82144bb3eda3385f74153aa91a8dbcea[m
+Author: Nate <bhhuynh@ucsd.edu>
+Date:   Thu Jun 8 20:01:47 2017 -0700
+
+    save button v1
+
+[33mcommit 1f20d406c5270a5e8fb84ff2342145db1179030c[m
+Author: Nate <bhhuynh@ucsd.edu>
+Date:   Thu Jun 8 19:45:29 2017 -0700
+
+    button added
+
+[33mcommit 1ed8ec4edb6e257617e2b3e003c2d684813beeb4[m
+Author: Blake Desktop <bhhuynh@ucsd.edu>
+Date:   Thu Jun 8 17:46:00 2017 -0700
+
+    resized image and descriptions
+
+[33mcommit 9a0eb00bc5ccb1dbed19492679592ab5c9e3a9f8[m
+Merge: 27cd61d bd201b4
+Author: Nate <bhhuynh@ucsd.edu>
+Date:   Wed Jun 7 23:44:19 2017 -0700
+
+    markers added
+
+[33mcommit 27cd61de392778b8ec0bfe41a3d5818f11df58c3[m
+Author: Nate <bhhuynh@ucsd.edu>
+Date:   Wed Jun 7 23:40:32 2017 -0700
+
+    markers added
+
+[33mcommit bd201b43a37f4ddf03b2ac439c67709a9a2a2814[m
+Merge: c161a72 e78ff3e
+Author: heloflier <heloflier@users.noreply.github.com>
+Date:   Wed Jun 7 19:46:37 2017 -0700
+
+    Merge pull request #15 from heloflier/master
+    
+    added css, refined some items, cleaned up duplicate files
+
+[33mcommit e78ff3e953feae518253e2175b5628021b6ef2af[m
+Author: Fabio <heloflyer@hotmail.com>
+Date:   Wed Jun 7 19:45:49 2017 -0700
+
+    added css, refined some items, cleaned up duplicate files
+
+[33mcommit c161a7270c38864a59fb8ef055f65a1a33978f21[m
+Merge: 9700f52 a51bb30
+Author: heloflier <heloflier@users.noreply.github.com>
+Date:   Tue Jun 6 21:48:19 2017 -0700
+
+    Merge pull request #14 from heloflier/master
+    
+    final version with modal and firebase working
+
+[33mcommit a51bb308daa9ed3aa5437031e1d3227ad3ce1ba9[m
+Author: Fabio <heloflyer@hotmail.com>
+Date:   Tue Jun 6 21:47:46 2017 -0700
+
+    final version with modal and firebase working
+
+[33mcommit 9700f5269a4880294c5da8b35273c2c78653d2ab[m
+Merge: 6bb438d 3e6a68b
+Author: heloflier <heloflier@users.noreply.github.com>
+Date:   Tue Jun 6 19:02:41 2017 -0700
+
+    Merge pull request #13 from heloflier/master
+    
+    update with Firebase auth, login modal
+
+[33mcommit 3e6a68b90b8f8a8d1b5dc1b3eeeb76b786adc583[m
+Author: Fabio <heloflyer@hotmail.com>
+Date:   Tue Jun 6 19:01:53 2017 -0700
+
+    update with Firebase auth, login modal
+
+[33mcommit 6bb438d11478d6ce059e39e6ca8fa36db2c91228[m
+Merge: 0220076 4ae7e60
+Author: heloflier <heloflier@users.noreply.github.com>
+Date:   Fri Jun 2 20:01:59 2017 -0700
+
+    Merge pull request #12 from heloflier/master
+    
+    minor mods to app.js on generating poi to DOM
+
+[33mcommit 4ae7e601c0b143dd1f4c6d517355b2d5c39ae42b[m
+Author: Fabio <heloflyer@hotmail.com>
+Date:   Fri Jun 2 20:00:23 2017 -0700
+
+    minor mods to app.js on generating poi to DOM
+
+[33mcommit 02200767aeaddb2255c00853106947e5874b4a32[m
+Merge: ee1a656 12a997d
+Author: heloflier <heloflier@users.noreply.github.com>
+Date:   Thu Jun 1 21:18:48 2017 -0700
+
+    Merge pull request #11 from heloflier/master
+    
+    added save buttons
+
+[33mcommit 12a997d6e710e746820fbde2c79f0a3331575d24[m
+Merge: 9713b6d ee1a656
+Author: Fabio <heloflyer@hotmail.com>
+Date:   Thu Jun 1 21:04:04 2017 -0700
+
+    Merge branch 'master' of https://github.com/3605031/DayTripperSanDiego
+
+[33mcommit ee1a656a88016ebdd42c8255c9bd268b8e219e44[m
+Author: Nate <bhhuynh@ucsd.edu>
+Date:   Thu Jun 1 21:02:47 2017 -0700
+
+    button to title div
+
+[33mcommit 9713b6d61a774d25f0e8d163ed94bc47bbe34c64[m
+Author: Fabio <heloflyer@hotmail.com>
+Date:   Thu Jun 1 21:00:32 2017 -0700
+
+    integrating fabio.js
+
+[33mcommit 9ce45033cd9249fc2ba8fa46133eb76c063be6d4[m
+Merge: cfde0f1 439801a
+Author: heloflier <heloflier@users.noreply.github.com>
+Date:   Thu Jun 1 20:33:26 2017 -0700
+
+    Merge pull request #10 from heloflier/master
+    
+    retry
+
+[33mcommit 439801a7625be3ae009e5ed816f7ad8febdc52cb[m
+Author: Fabio <heloflyer@hotmail.com>
+Date:   Thu Jun 1 20:32:47 2017 -0700
+
+    retry
+
+[33mcommit cfde0f1f6a0a404d09947455a59f1f20626e9b0d[m
+Merge: 5d9ffa6 5520f63
+Author: heloflier <heloflier@users.noreply.github.com>
+Date:   Thu Jun 1 20:18:29 2017 -0700
+
+    Merge pull request #9 from heloflier/master
+    
+    additional files to be merged with originals
+
+[33mcommit 5520f636a457adca9c376bc8cbb3710748b627f3[m
+Author: Fabio <heloflyer@hotmail.com>
+Date:   Thu Jun 1 20:16:08 2017 -0700
+
+    additional files to be merged with originals
+
+[33mcommit 5d9ffa65f8fa89b4804abe238206e1ca768dd326[m
+Merge: fd0c12c b42ee7f
+Author: Nate <bhhuynh@ucsd.edu>
+Date:   Thu Jun 1 20:06:12 2017 -0700
+
+    Merge branch 'master' of https://github.com/3605031/DayTripperSanDiego
+
+[33mcommit fd0c12ce849cfaacecb18fa0549a1e8dfe6612f8[m
+Author: Nate <bhhuynh@ucsd.edu>
+Date:   Thu Jun 1 20:03:43 2017 -0700
+
+    added places' pictures and title formatting
+
+[33mcommit b42ee7f1aa5c10bc64a6d62a6c68cc7ef0de5200[m
+Author: Blake Desktop <bhhuynh@ucsd.edu>
+Date:   Wed May 31 03:24:48 2017 -0700
+
+    heroku app for COR
+
+[33mcommit c95eddd411591c7c5b26634421bad9bf58e57f8e[m
+Author: Nate <bhhuynh@ucsd.edu>
+Date:   Tue May 30 20:43:09 2017 -0700
+
+    added crossorigin https fix
+
+[33mcommit c846c13d0c5ed23b76255c92d1ec7e2743b31e8d[m
+Author: Nate <bhhuynh@ucsd.edu>
+Date:   Tue May 30 20:36:38 2017 -0700
+
+    weather api https
+
+[33mcommit e9d9041a61ccb1e6e05de0bbb622410a422e1fea[m
+Author: Nate <bhhuynh@ucsd.edu>
+Date:   Tue May 30 20:31:18 2017 -0700
+
+    user input control added
+
+[33mcommit 877a5526bf44724c600ced6488d616bcbc70d7a8[m
+Author: Nate <bhhuynh@ucsd.edu>
+Date:   Tue May 30 19:00:58 2017 -0700
+
+    fixed errors
+
+[33mcommit b9a13344ed2bd245d2ee727689330edc320e8f5d[m
+Merge: 1f54bb5 ef86b54
+Author: heloflier <heloflier@users.noreply.github.com>
+Date:   Mon May 29 15:23:57 2017 -0700
+
+    Merge pull request #8 from heloflier/master
+    
+    new authentication subroutine
+
+[33mcommit ef86b548743c02ad355e156b082bf0c7eb99716e[m
+Author: Fabio <heloflyer@hotmail.com>
+Date:   Mon May 29 15:19:54 2017 -0700
+
+    added authentication subroutine, added firebase DB, needs refinement
+
+[33mcommit b0a2fe51d8889d7e0a97c36e2e131145e6824020[m
+Merge: cfa63de 1f54bb5
+Author: Fabio <heloflyer@hotmail.com>
+Date:   Sun May 28 17:30:05 2017 -0700
+
+    Merge branch 'master' of https://github.com/3605031/DayTripperSanDiego
+
+[33mcommit 1f54bb5a62ef3a319fa6f46aba0c6f27da044ad6[m
+Author: Nate <bhhuynh@ucsd.edu>
+Date:   Sat May 27 16:50:11 2017 -0700
+
+    5 days add
+
+[33mcommit cfa63de3efb52de24451e26db1f6751306fc131c[m
+Author: Fabio <heloflyer@hotmail.com>
+Date:   Sat May 27 16:46:31 2017 -0700
+
+    as immediately before this.
+
+[33mcommit eb1527532b8e412a6b9120420004e9f412b133c0[m
+Author: Fabio <heloflyer@hotmail.com>
+Date:   Sat May 27 16:45:31 2017 -0700
+
+    added fields to html, working on js. JS NOT READY
+
+[33mcommit 465a7277f64492c80b925be785ca304f3648932a[m
+Author: Nate <bhhuynh@ucsd.edu>
+Date:   Sat May 27 15:27:56 2017 -0700
+
+    merged fabio.js with app.js
+
+[33mcommit 6e7a0ba76343da9dd27d1fda677b18a19308038d[m
+Merge: f880d92 b9173cf
+Author: heloflier <heloflier@users.noreply.github.com>
+Date:   Sat May 27 15:04:24 2017 -0700
+
+    Merge pull request #7 from heloflier/master
+    
+    added icons and wx data
+
+[33mcommit b9173cf280a7b8478d8040dac446c95e7cb2ba8f[m
+Author: Fabio <heloflyer@hotmail.com>
+Date:   Sat May 27 15:03:07 2017 -0700
+
+    added icons and wx data
+
+[33mcommit f880d9281dd0e33eb8205e2be28ae8e72606e1c5[m
+Merge: 27d224f 2cfda37
+Author: Nate <bhhuynh@ucsd.edu>
+Date:   Sat May 27 14:42:42 2017 -0700
+
+    Merge branch 'master' of https://github.com/3605031/DayTripperSanDiego
+
+[33mcommit 27d224f6b110695c48a1c5f73c290a7c961190ba[m
+Author: Nate <bhhuynh@ucsd.edu>
+Date:   Sat May 27 14:41:51 2017 -0700
+
+    add in p.o.i in div
+
+[33mcommit 2cfda37ec563c499bd4ccfc140f66643a554a0ea[m
+Merge: 68a8a94 07b2bb0
+Author: BlakeHuynh <bhhuynh@ucsd.edu>
+Date:   Sat May 27 14:40:19 2017 -0700
+
+    Merge pull request #6 from mercertj/master
+    
+    updated fabio's js link
+
+[33mcommit 07b2bb09b7821f52bdfffc642f3b3da8e47aaff3[m
+Merge: 6431555 68a8a94
+Author: BlakeHuynh <bhhuynh@ucsd.edu>
+Date:   Sat May 27 14:40:10 2017 -0700
+
+    Merge branch 'master' into master
+
+[33mcommit 6431555605112ae86205941785ca8599a78b6200[m
+Author: Thomas Mercer <tmercer74@gmail.com>
+Date:   Sat May 27 14:33:06 2017 -0700
+
+    updated js link
+
+[33mcommit 68a8a94c7b65b6037f4ccde4543fe15b4b529005[m
+Author: Nate <bhhuynh@ucsd.edu>
+Date:   Sat May 27 14:08:38 2017 -0700
+
+    embed map onto HTML
+
+[33mcommit a4de8deb12f584607cdc4f33f3e6791cd0318ff7[m
+Author: Thomas Mercer <tmercer74@gmail.com>
+Date:   Sat May 27 13:59:35 2017 -0700
+
+    fixed some link errors in head
+
+[33mcommit 2d052bb957f27dd9d8c2788cbbf238cbb86324c8[m
+Merge: 683c39a bbb6e24
+Author: Nate <bhhuynh@ucsd.edu>
+Date:   Sat May 27 13:58:54 2017 -0700
+
+    Merge branch 'master' of https://github.com/3605031/DayTripperSanDiego
+
+[33mcommit 683c39a68c4d975c0f40e1de462b0f4352c6192f[m
+Author: Nate <bhhuynh@ucsd.edu>
+Date:   Sat May 27 13:56:54 2017 -0700
+
+    new app.js
+
+[33mcommit bbb6e242a30233432fa71b99c71384d4014ef435[m
+Merge: 74e141c 6f5fd42
+Author: BlakeHuynh <bhhuynh@ucsd.edu>
+Date:   Sat May 27 13:34:11 2017 -0700
+
+    Merge pull request #5 from mercertj/master
+    
+    added new div
+
+[33mcommit 6f5fd422dbb3f9110648f897a503aac439238099[m
+Author: Thomas Mercer <tmercer74@gmail.com>
+Date:   Sat May 27 13:26:45 2017 -0700
+
+    added new div
+
+[33mcommit 74e141c1533e1ab1b11b68306f9a542c77e9bfbc[m
+Merge: f7eaee6 c890562
+Author: BlakeHuynh <bhhuynh@ucsd.edu>
+Date:   Sat May 27 13:26:32 2017 -0700
+
+    Merge pull request #4 from mercertj/master
+    
+    added image to html
+
+[33mcommit c890562ad6a5b36cc4535570fb38c51baf09f58a[m
+Author: Thomas Mercer <tmercer74@gmail.com>
+Date:   Sat May 27 13:09:36 2017 -0700
+
+    cleaned up layout, added drop downs
+
+[33mcommit 869c2a6470bc960e020e4cdee04f739b00886aec[m
+Author: Thomas Mercer <tmercer74@gmail.com>
+Date:   Thu May 25 21:24:14 2017 -0700
+
+    updated html
+
+[33mcommit 5c52fec0829bc7442b37390182c02ca0f205b182[m
+Merge: b7a2cc2 f7eaee6
+Author: Thomas Mercer <tmercer74@gmail.com>
+Date:   Thu May 25 21:02:10 2017 -0700
+
+    Merge branch 'master' of https://github.com/3605031/DayTripperSanDiego
+
+[33mcommit f7eaee6da32076c8c1732f0a2ac974d78db8674b[m
+Author: Nate <bhhuynh@ucsd.edu>
+Date:   Thu May 25 21:01:33 2017 -0700
+
+    linked app.js in html
+
+[33mcommit b7a2cc2636016b31d395b1f0e19cc8a5a61815dd[m
+Merge: 807d4ce aa9d597
+Author: Thomas Mercer <tmercer74@gmail.com>
+Date:   Thu May 25 21:01:20 2017 -0700
+
+    Merge branch 'master' of https://github.com/3605031/DayTripperSanDiego
+
+[33mcommit 807d4cef830323b100cedabbf4651b3861b70f6d[m
+Author: Thomas Mercer <tmercer74@gmail.com>
+Date:   Thu May 25 20:48:33 2017 -0700
+
+    added image to html
+
+[33mcommit aa9d5970b47b2cf4a0a85606091d2c73e93fbb22[m
+Merge: 39c67c2 d6ac6ca
+Author: Nate <bhhuynh@ucsd.edu>
+Date:   Thu May 25 20:45:41 2017 -0700
+
+    Merge branch 'master' of https://github.com/3605031/DayTripperSanDiego
+
+[33mcommit 39c67c232f22d10f7752d82116df0002e3b61ec8[m
+Author: Nate <bhhuynh@ucsd.edu>
+Date:   Thu May 25 20:45:33 2017 -0700
+
+    1st app js
+
+[33mcommit d6ac6ca7425e7fb03efe20bbbb7ecfa59dca7e0f[m
+Merge: fbc13fe dbab666
+Author: BlakeHuynh <bhhuynh@ucsd.edu>
+Date:   Thu May 25 20:38:57 2017 -0700
+
+    Merge pull request #3 from mercertj/master
+    
+    Pull request
+
+[33mcommit dbab6664b625758f3a734d33a67b24e238aaff01[m
+Author: Thomas Mercer <tmercer74@gmail.com>
+Date:   Thu May 25 20:26:28 2017 -0700
+
+    updated dropdown added images folder
+
+[33mcommit ac0398328472ec22924a88b205ef6d590b32a954[m
+Author: Thomas Mercer <tmercer74@gmail.com>
+Date:   Thu May 25 19:38:46 2017 -0700
+
+    upated html
+
+[33mcommit 6e07dc1f70bbc0387d9d5388be115ad9cf4fc865[m
+Author: Thomas Mercer <tmercer74@gmail.com>
+Date:   Tue May 23 21:22:28 2017 -0700
+
+    updated html
+
+[33mcommit fbc13fe46e267d98b602bd694797b7c33474c27f[m
+Merge: 252785f 930ac29
+Author: Thomas Mercer <tmercer74@gmail.com>
+Date:   Tue May 23 20:47:08 2017 -0700
+
+    Merge pull request #2 from mercertj/master
+    
+    html skeleton
+
+[33mcommit 252785f43d2f8a1a1072f1c595ed32be977d5e44[m
+Merge: 860b8ac f72ab64
+Author: BlakeHuynh <bhhuynh@ucsd.edu>
+Date:   Tue May 23 20:46:02 2017 -0700
+
+    Merge pull request #1 from heloflier/master
+    
+    test commit
+
+[33mcommit 930ac29a23d541e38eb68a3991f3c2fe86328c12[m
+Author: Thomas Mercer <tmercer74@gmail.com>
+Date:   Tue May 23 20:43:59 2017 -0700
+
+    html skeleton
+
+[33mcommit f72ab64e00cc83406ef6ee920c4d87e139afce49[m
+Author: Fabio <heloflyer@hotmail.com>
+Date:   Tue May 23 20:43:13 2017 -0700
+
+    test commit
+
+[33mcommit 860b8acb270f93b9aa7170f463371ebf9c2801fc[m
+Author: Nate <bhhuynh@ucsd.edu>
+Date:   Tue May 23 20:29:29 2017 -0700
+
+    structure
+
+[33mcommit 171d47ae166a88e2a33266bfa5f6e9027b4f5f17[m
+Author: BlakeHuynh <bhhuynh@ucsd.edu>
+Date:   Tue May 23 20:20:42 2017 -0700
+
+    Initial commit

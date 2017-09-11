@@ -79,7 +79,26 @@ function callback(results, status) {
 
         //Title of place
         var title = $("<div class='div-save'>");
-        title.append("<h3>"+numIndex+". "+results[i].name+"</h3>");
+        title.append("<h3>"+numIndex+". "+"<span class='placetitle'>"+results[i].name+"</span></h3>");
+        //title.append("<span>");
+        var btn = $('<button type="button" class="btn btn-default btn-save">Save</button>');
+        if (firebase.auth().currentUser != null) {
+        //  console.log('button append');
+           title.append(btn);
+        };
+        //Hidden info in the title
+        var imageurl = $("<div class='poi-imgurl'>");
+        imageurl.append(results[i].photos[0].getUrl({'maxWidth': 1000}));
+        var address  = $("<div class='poi-address'>");
+        address.append(results[i].vicinity);
+        var placesrating = $("<div class='poi-rating'>");
+        placesrating.append(results[i].rating);
+        imageurl.css("display","none");
+        address.css("display","none");
+        placesrating.css("display","none");
+        title.append(imageurl);
+        title.append(address);
+        title.append(placesrating);
 
         //Formatting title css
         title.css("background-color","black");
@@ -89,12 +108,8 @@ function callback(results, status) {
         title.css("margin","15px 0px 0px 0px");
         $(".placespanel").append(title);
 
-        // // Adding save button if user is logged in
-        // if (user != null) {
-        //  console.log('button append');
-    	//          title.append(btn);
-        // };
-        //Getting Picture of each place and append it to div
+        
+
         var placesInfo = $("<div>");
 
         var picture = $("<img>");
@@ -118,6 +133,9 @@ function callback(results, status) {
         picInfo.css("width","60%")
         picInfo.css("float","right");
         picInfo.css("margin-top","30px")
+
+
+
 
         
         placesInfo.append(pictureDiv);
